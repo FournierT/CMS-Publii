@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Gestion de contenu",
+    "description": "",
+    "home_page_url": "https://fourniert.github.io/CMS-Publii",
+    "feed_url": "https://fourniert.github.io/CMS-Publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "FournierT"
+    },
+    "items": [
+        {
+            "id": "https://fourniert.github.io/CMS-Publii/premiere-page.html",
+            "url": "https://fourniert.github.io/CMS-Publii/premiere-page.html",
+            "title": "Première page",
+            "summary": "Titre 1 paragraphe paragraphe",
+            "content_html": "<h1>Titre 1</h1>\n<p>paragraphe</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg\" alt=\"image du bâtiment de bikini test\" width=\"1080\" height=\"810\" sizes=\"100vw\" srcset=\"https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w\"></figure>\n<h2>Titre 2</h2>\n<h3>Titre 3</h3>\n<p>paragraphe</p>",
+            "image": "https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg",
+            "author": {
+                "name": "FournierT"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-27T12:09:12+02:00",
+            "date_modified": "2023-10-27T12:33:33+02:00"
+        }
+    ]
+}

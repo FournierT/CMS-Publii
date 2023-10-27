@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fourniert.github.io/CMS-Publii/sitemap.xml

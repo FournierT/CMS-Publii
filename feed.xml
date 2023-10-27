@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Gestion de contenu</title>
+    <link href="https://fourniert.github.io/CMS-Publii/feed.xml" rel="self" />
+    <link href="https://fourniert.github.io/CMS-Publii" />
+    <updated>2023-10-27T12:33:33+02:00</updated>
+    <author>
+        <name>FournierT</name>
+    </author>
+    <id>https://fourniert.github.io/CMS-Publii</id>
+
+    <entry>
+        <title>Première page</title>
+        <author>
+            <name>FournierT</name>
+        </author>
+        <link href="https://fourniert.github.io/CMS-Publii/premiere-page.html"/>
+        <id>https://fourniert.github.io/CMS-Publii/premiere-page.html</id>
+        <media:content url="https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg" medium="image" />
+
+        <updated>2023-10-27T12:33:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg" alt="logo bikini test" />
+                    Titre 1 paragraphe paragraphe
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg" class="type:primaryImage" alt="logo bikini test" /></p>
+                <h1>Titre 1</h1>
+<p>paragraphe</p>
+<figure class="post__image"><img loading="lazy"  src="https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg" alt="image du bâtiment de bikini test" width="1080" height="810" sizes="100vw" srcset="https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w"></figure>
+<h2>Titre 2</h2>
+<h3>Titre 3</h3>
+<p>paragraphe</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

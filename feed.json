@@ -12,17 +12,19 @@
         {
             "id": "https://fourniert.github.io/CMS-Publii/premiere-page.html",
             "url": "https://fourniert.github.io/CMS-Publii/premiere-page.html",
-            "title": "Première page",
-            "summary": "Titre 1 paragraphe paragraphe",
-            "content_html": "<h1>Titre 1</h1>\n<p>paragraphe</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg\" alt=\"image du bâtiment de bikini test\" width=\"1080\" height=\"810\" sizes=\"100vw\" srcset=\"https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w\"></figure>\n<h2>Titre 2</h2>\n<h3>Titre 3</h3>\n<p>paragraphe</p>",
+            "title": "Bikini Test",
+            "summary": "Qu'est-ce que le Bikini Test Il s'agit d'une salle de concert à La Chaux-de-Fonds. Vue de l'extérieur du bik'",
+            "content_html": "<h1>Qu'est-ce que le Bikini Test</h1>\n<p>Il s'agit d'une salle de concert à La Chaux-de-Fonds.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg\" alt=\"image du bâtiment de bikini test\" width=\"1080\" height=\"810\" sizes=\"100vw\" srcset=\"https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w\"></figure>\n<blockquote>\n<p><em>Vue de l'extérieur du bik'</em></p>\n</blockquote>",
             "image": "https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg",
             "author": {
                 "name": "FournierT"
             },
             "tags": [
+                   "Concert",
+                   "Chaux-de-Fonds"
             ],
             "date_published": "2023-10-27T12:09:12+02:00",
-            "date_modified": "2023-10-27T12:33:33+02:00"
+            "date_modified": "2023-10-27T12:44:04+02:00"
         }
     ]
 }

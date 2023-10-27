@@ -3,7 +3,7 @@
     <title>Gestion de contenu</title>
     <link href="https://fourniert.github.io/CMS-Publii/feed.xml" rel="self" />
     <link href="https://fourniert.github.io/CMS-Publii" />
-    <updated>2023-10-27T12:44:04+02:00</updated>
+    <updated>2023-10-27T12:50:56+02:00</updated>
     <author>
         <name>FournierT</name>
     </author>
@@ -20,11 +20,11 @@
             <category term="Concert"/>
             <category term="Chaux-de-Fonds"/>
 
-        <updated>2023-10-27T12:44:04+02:00</updated>
+        <updated>2023-10-27T12:50:56+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg" alt="logo bikini test" />
-                    Qu'est-ce que le Bikini Test Il s'agit d'une salle de concert à La Chaux-de-Fonds. Vue de l'extérieur du bik'
+                    Qu'est-ce que le Bikini Test Il s'agit d'une salle de concert à La Chaux-de-Fonds. Vue extérieur du Bik'
                 ]]>
             </summary>
         <content type="html">
@@ -32,10 +32,9 @@
                     <p><img src="https://fourniert.github.io/CMS-Publii/media/posts/1/bik-2.jpg" class="type:primaryImage" alt="logo bikini test" /></p>
                 <h1>Qu'est-ce que le Bikini Test</h1>
 <p>Il s'agit d'une salle de concert à La Chaux-de-Fonds.</p>
-<figure class="post__image"><img loading="lazy"  src="https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg" alt="image du bâtiment de bikini test" width="1080" height="810" sizes="100vw" srcset="https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w"></figure>
-<blockquote>
-<p><em>Vue de l'extérieur du bik'</em></p>
-</blockquote>
+<figure class="post__image" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://fourniert.github.io/CMS-Publii/media/posts/1/ArcInfo_03840225Bikini-ArcI.jpg" alt="image du bâtiment de bikini test" width="1080" height="810" sizes="100vw" srcset="https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xs.jpg 300w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-sm.jpg 480w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-md.jpg 768w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-lg.jpg 1024w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-xl.jpg 1360w ,https://fourniert.github.io/CMS-Publii/media/posts/1/responsive/ArcInfo_03840225Bikini-ArcI-2xl.jpg 1600w"></figure>
+<figcaption >Vue extérieur du Bik'</figcaption>
+</figure>
             ]]>
         </content>
     </entry>
